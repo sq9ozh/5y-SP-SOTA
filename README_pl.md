@@ -7,9 +7,9 @@
 1. Dyplom może otrzymać każdy licencjonowany nadawca, indywidualny lub klubowy, po spełnieniu warunków określonych w niniejszym regulaminie i nadesłaniu zgłoszenia.
 1. Do klasyfikacji dyplomowej zalicza się łączności  wykonane w ciągu 1 roku od 5 rocznicy uruchomienia programu SOTA w Polsce, czyli od godziny 00:00 UTC 1 kwietnia 2013 r. do 23:59 UTC 31 marca 2014 r.
 1. Łączności muszą być wykonane zgodnie z zasadami ogólnymi programu SOTA (link), w szczególności:
-  * nie są zaliczane łączności przez przemienniki
-  * stacja aktywatora musi być zasilana z baterii
-  * aktywator musi dotrzeć na szczyt pieszo lub na rowerze
+  * nie są zaliczane łączności przez przemienniki naziemne
+  * stacja aktywatora musi być zasilana z przenośnego źródła energi, nie zasilanego paliwami (np. z baterii)
+  * aktywator musi dotrzeć wraz z wyposażeniem stacji na szczyt o własnych siłach (np. pieszo, na rowerze, etc...)
 1. Warunkiem uzyskania dyplomu  w kategorii łowców jest nawiązanie co najmniej 5 łączności ze stacjami aktywującymi szczyty górskie  o numerze referencyjnym SP/XX-999 umieszczone w bazie stowarzyszenia SP SOTA.
 1. Warunkiem uzyskania dyplomu w kategorii aktywatorów jest wykonanie co najmniej 5 aktywacji szczytów górskich  o numerze referencyjnym SP/XX-999 umieszczonych w bazie stowarzyszenia SP SOTA. Aktywacje muszą być aktywacjami punktowanymi w programie SOTA (co najmniej 4 łączności)
 1. Każdy szczyt liczy się tylko jeden raz, zarówno dla łowców jak i dla aktywatorów. Aby otrzymać dyplom jako aktywator, należy aktywować 5 różnych szczytów. Aby otrzymać dyplom jako łowca, należy nawiązać łączności z aktywatorami na 5 różnych szczytach.
