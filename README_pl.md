@@ -38,7 +38,7 @@
   * "Łowca Orłów" - za złowienie 5 różnych szczytów z regionu SP/TA (uwaga: nie będą zaliczane aktywacje szczytów niedostępnych dla ogółu turystów: Kominiarski Wierch, ...)
   * "Piąte przez dziesiąte" - za 5 łączności z aktywatorami na paśmie 10m
   * "Krótka piątka" - za 5 łączności z terytorium SP z aktywatorami na pasmach KF (od 160m do 10m)
-1. Zgłoszenia do dyplomu mogą być nadsyłane do 30 kwietnia 2014 r. włącznie.
+1. Zgłoszenia do dyplomu mogą być nadsyłane do 30 kwietnia 2014 r. włącznie, wyłącznie drogą elektroniczną na adres: (TBD).
 1. Zgłoszenie musi zawierać następujące dane: znak stacji, imię i nazwisko operatora lub nazwę klubu, kategorię dyplomu, adres pocztowy lub E-mail - w zależności formy dyplomu (wydruk/plik PDF), listę dodatkowych odznaczeń
 1. Koszt dyplomu dla stacji z SP wynosi 12 PLN, dla stacji zagranicznych 5 EUR. Cena obejmuje wysyłkę dyplomu listem priorytetowym.
 1. Istnieje możliwość dostarczenia dyplomu w postaci elektronicznej (format PDF) na adres E-mail podany w zgłoszeniu.
