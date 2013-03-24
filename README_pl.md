@@ -26,6 +26,7 @@
   * "Gość Honorowy" - dla nadawcy z zagranicy za aktywacje w SP
   * "Orzeł" - za 5 aktywacji w regionie SP/TA
   * "Piąte przez dziesiąte" - za 5 aktywacji w paśmie 10m
+  * "Średnia piątka" - za 5 aktywacji szczytów w paśmie 160m
   * "Góra z górą" - za 5 łączności z innymi aktywatorami podczas aktywacji (tzw. S2S, summit-to-summit) - każda z tych łączności musi być nawiązana z innego szczytu, pomiędzy różnymi szczytami
 1. Dodatkowe odznaczenia na dyplomie w kategorii łowców:
   * "Piątka do kwadratu" - za złowienie 25 szczytów
@@ -38,6 +39,7 @@
   * "Ultra Sąsiad Zza Miedzy" - za złowienie co najmniej 5 szczytów na pasmach UKF (6m, 4m, 2m, 70cm, 13cm) - dla nadawcy spoza SP
   * "Łowca Orłów" - za złowienie 5 różnych szczytów z regionu SP/TA
   * "Piąte przez dziesiąte" - za 5 łączności z aktywatorami na paśmie 10m
+  * "Średnia piątka" - za 5 łączności z aktywatorami na paśmie 160m
   * "Krótka piątka" - za 5 łączności z terytorium SP z aktywatorami na pasmach KF (od 160m do 10m)
 1. Zgłoszenia do dyplomu mogą być nadsyłane od 1 kwietnia do 30 kwietnia 2014 r. włącznie, wyłącznie drogą elektroniczną na adres: (TBD).
 1. Zgłoszenie musi zawierać następujące dane: znak stacji, imię i nazwisko operatora lub nazwę klubu, kategorię dyplomu, adres pocztowy lub E-mail - w zależności formy dyplomu (wydruk/plik PDF), listę dodatkowych odznaczeń
