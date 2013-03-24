@@ -22,7 +22,7 @@
   * "Piąte koło u wozu" - za aktywację szczytów w 5 różnych regionach stowarzyszenia SOTA SP (lista regionów jest dostępna w regulaminie SOTA SP)
   * "Wędrowiec" - za aktywację szczytów w 10 różnych regionach stowarzyszenia SOTA SP
   * "Obieżyświat" - za aktywację szczytów we wszystkich 15 regionach stowarzyszenia SOTA SP
-  * "Wielopasmowiec" - za aktywacje szczytów na 5 różnych pasmach amatorskich (co najmniej 4 łączności na każdym z 5 pasm)
+  * "Wielopasmowiec" - za aktywacje szczytu/ów na 5 różnych pasmach amatorskich (co najmniej 4 łączności podczas jednej aktywacji na jedno pasmo)
   * "Gość Honorowy" - dla nadawcy z zagranicy za aktywacje w SP
   * "Orzeł" - za 5 aktywacji w regionie SP/TA
   * "Piąte przez dziesiąte" - za 5 aktywacji w paśmie 10m
@@ -33,7 +33,7 @@
   * "Etnograf" - za złowienie szczytów w 5 różnych regionach stowarzyszenia SOTA SP (lista regionów jest dostępna w regulaminie SOTA SP)
   * "Geograf" - za złowienie szczytów w 10 różnych regionach stowarzyszenia SOTA SP
   * "100-procentowy Polak" - za złowienie szczytów we wszystkich 15 regionach stowarzyszenia SOTA SP
-  * "Wielopasmowiec" - za złowienie szczytów na 5 różnych pasmach amatorskich (co najmniej 4 łączności na każdym z 5 pasm)
+  * "Wielopasmowiec" - za złowienie szczytów na 5 różnych pasmach amatorskich (co najmniej 1 łączność na każdym z 5 pasm)
   * "Ultra Sąsiad Zza Miedzy" - za złowienie co najmniej 5 szczytów na pasmach UKF (6m, 4m, 2m, 70cm, 13cm) - dla nadawcy spoza SP
   * "Łowca Orłów" - za złowienie 5 różnych szczytów z regionu SP/TA
   * "Piąte przez dziesiąte" - za 5 łączności z aktywatorami na paśmie 10m
