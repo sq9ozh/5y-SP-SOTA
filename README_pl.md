@@ -34,6 +34,7 @@
   * "Geograf" - za złowienie szczytów w 10 różnych regionach stowarzyszenia SOTA SP
   * "100-procentowy Polak" - za złowienie szczytów we wszystkich 15 regionach stowarzyszenia SOTA SP
   * "Wielopasmowiec" - za złowienie szczytów na 5 różnych pasmach amatorskich (co najmniej 1 łączność na każdym z 5 pasm)
+  * "Ultra Most Płn-Płd" - za złowienie co najmniej 10 szczytów na pasmach UKF (6m, 4m, 2m, 70cm, 13cm) - dla nadawcy operujących z okręgów 3 i 5 oraz 5 szczytów dla nadawców operujących z okręgów 1, 2, 4. Złowione szczyty muszą leżeć geograficznie w granicach regionów 6, 8, 9
   * "Ultra Sąsiad Zza Miedzy" - za złowienie co najmniej 5 szczytów na pasmach UKF (6m, 4m, 2m, 70cm, 13cm) - dla nadawcy spoza SP
   * "Łowca Orłów" - za złowienie 5 różnych szczytów z regionu SP/TA
   * "Piąte przez dziesiąte" - za 5 łączności z aktywatorami na paśmie 10m
